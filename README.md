@@ -47,15 +47,15 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 <!--![FRAMEWORKS](https://img.shields.io/badge/frameworks-007ACC.svg?style=for-the-badge&logoColor=white) -->
 
-![REACT](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACT](https://img.shields.io/badge/react-f0f0f0.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
 ![Chakra](https://img.shields.io/badge/chakra-f0f0f0.svg?style=for-the-badge&logo=chakraui&logoColor=4ED1C5) 
 ![Radix UI](https://img.shields.io/badge/radix%20ui-f0f0f0.svg?style=for-the-badge&logo=radix-ui&logoColor=161618)
 ![Styled Components](https://img.shields.io/badge/styled--components-f0f0f0?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 
-![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-f0f0f0.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031)
 ![RxJS](https://img.shields.io/badge/rxjs-f0f0f0.svg?style=for-the-badge&logo=reactivex&logoColor=B7178C) 
 
-![FOUNDATIONS](https://img.shields.io/badge/foundations-323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![FOUNDATIONS](https://img.shields.io/badge/foundations-f0f0f0.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=)
 ![JavaScript](https://img.shields.io/badge/javascript-f0f0f0.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-f0f0f0.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![HTML5](https://img.shields.io/badge/html5-f0f0f0.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -63,13 +63,13 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 ![Bootstrap](https://img.shields.io/badge/bootstrap-f0f0f0.svg?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-f0f0f0.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-![TESTING](https://img.shields.io/badge/-testing-4CAF50?style=for-the-badge&logoColor=white)
+![TESTING](https://img.shields.io/badge/-testing-f0f0f0?style=for-the-badge&logoColor=white&labelColor=4CAF50)
 ![Mocha](https://img.shields.io/badge/-mocha-f0f0f0?style=for-the-badge&logo=mocha&logoColor=8D6748)
 ![Jasmine](https://img.shields.io/badge/jasmine-f0f0f0.svg?style=for-the-badge&logo=jasmine&logoColor=238A4182)
 ![Selenium](https://img.shields.io/badge/-selenium-f0f0f0?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![cypress](https://img.shields.io/badge/-cypress-f0f0f0?style=for-the-badge&logo=cypress&logoColor=E5E5E5)
 
-![TOOLS](https://img.shields.io/badge/tools-F7DF1E.svg?style=for-the-badge&logoColor=white)
+![TOOLS](https://img.shields.io/badge/tools-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=F7DF1E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-f0f0f0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![NPM](https://img.shields.io/badge/NPM-f0f0f0.svg?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/yarn-f0f0f0.svg?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
@@ -81,21 +81,21 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ## BACKEND
 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-f0f0f0.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
 ![Java](https://img.shields.io/badge/java-f0f0f0.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Hibernate](https://img.shields.io/badge/Hibernate-f0f0f0?style=for-the-badge&logo=Hibernate&logoColor=59666C)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-f0f0f0.svg?style=for-the-badge&logo=Thymeleaf&logoColor=005C0F)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-f0f0f0.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-f0f0f0?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-f0f0f0?style=for-the-badge&logo=node.js&logoColor=white=labelColor=6DA55F)
 ![Express.js](https://img.shields.io/badge/express.js-f0f0f0.svg?style=for-the-badge&logo=express&logoColor=404d59)
 ![FastAPI](https://img.shields.io/badge/FastAPI-f0f0f0?style=for-the-badge&logo=005571)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 ![NestJS](https://img.shields.io/badge/nestjs-f0f0f0.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Socket.io](https://img.shields.io/badge/Socket.io-f0f0f0?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=CC0000)
 ![View Components](https://img.shields.io/badge/view%20components-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 ![Action Cable](https://img.shields.io/badge/action%20cable-f0f0f0.svg?style=for-the-badge&logoColor=CC0000)
 ![Stimulus](https://img.shields.io/badge/stimulus-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
