@@ -114,7 +114,6 @@
 ![Turbo](https://img.shields.io/badge/turbo-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
 ![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
-
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)
 
@@ -150,7 +149,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 ![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
 
-
 ![DATABASES](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Redis](https://img.shields.io/badge/redis-f0f0f0.svg?style=for-the-badge&logo=redis&logoColor=DD0031)
@@ -160,6 +158,8 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-f0f0f0?style=for-the-badge&logo=005571)
 
 ![GOVERNANCE](https://img.shields.io/badge/governance-4CAF50.svg?style=for-the-badge&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
+![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
 
 <!-- fly.io -->
 <!--dokku, wireshark, metasploit, launch darkly-->
@@ -172,8 +172,6 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
 
 ![PUBLISHING](https://img.shields.io/badge/publishing-darkgreen.svg?style=for-the-badge&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
-![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
 ![Astro](https://img.shields.io/badge/astro-f0f0f0.svg?style=for-the-badge&logo=astro&logoColor=2C2052)
 ![Directus](https://img.shields.io/badge/directus-f0f0f0.svg?style=for-the-badge&logo=directus&logoColor=64f)
 ![Hugo](https://img.shields.io/badge/Hugo-f0f0f0.svg?style=for-the-badge&logo=Hugo&logoColor=black)
@@ -191,6 +189,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-f0f0f0.svg?style=for-the-badge&logo=Itch.io&logoColor=FF0B34)
+
 ![AUTOMATION](https://img.shields.io/badge/Automation-FFA500?style=for-the-badge&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-f0f0f0?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
 ![Homebridge](https://img.shields.io/badge/homebridge-f0f0f0.svg?style=for-the-badge&logo=homebridge&logoColor=491F59)
