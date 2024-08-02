@@ -101,6 +101,11 @@
 
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![View Components](https://img.shields.io/badge/view%20components-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
+![Action Cable](https://img.shields.io/badge/action-cable-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Stimulus](https://img.shields.io/badge/stimulus-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Hotwire](https://img.shields.io/badge/hotwire-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Turbo](https://img.shields.io/badge/turbo-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
@@ -118,24 +123,26 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-f0f0f0.svg?style=for-the-badge&logo=digitalOcean&logoColor=0167ff)
 ![Heroku](https://img.shields.io/badge/heroku-f0f0f0.svg?style=for-the-badge&logo=heroku&logoColor=430098)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f0f0f0?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
-![CI / CD](https://img.shields.io/badge/ci+cd-4CAF50.svg?style=for-the-badge&logoColor=white)
+
+![PROVISIONING](https://img.shields.io/badge/provisioning-EE0000.svg?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
+![Ansible](https://img.shields.io/badge/ansible-f0f0f0.svg?style=for-the-badge&logo=ansible&logoColor=1A1918)
+![Terraform](https://img.shields.io/badge/terraform-f0f0f0.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-f0f0f0.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5)
-![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-f0f0f0.svg?style=for-the-badge&logo=gitlab&logoColor=181717)
-![Jenkins](https://img.shields.io/badge/jenkins-f0f0f0.svg?style=for-the-badge&logo=jenkins&logoColor=2C5263)
+
+<!--
+![openapi initiative](https://img.shields.io/badge/openapiinitiative-f0f0f0.svg?style=for-the-badge&logo=openapiinitiative&logoColor=000000)
+![Swagger](https://img.shields.io/badge/-Swagger-f0f0f0?style=for-the-badge&logo=swagger&logoColor=Clojure)
+-->
+
 
 ![RUNTIME AND MONITORING](https://img.shields.io/badge/runtime+monitoring-FF6F00.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-f0f0f0.svg?style=for-the-badge&logo=docker&logoColor=0db7ed)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-f0f0f0.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 ![Grafana](https://img.shields.io/badge/grafana-f0f0f0.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
+![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
 
-![TOOLS](https://img.shields.io/badge/tools-EE0000.svg?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
-![openapi initiative](https://img.shields.io/badge/openapiinitiative-f0f0f0.svg?style=for-the-badge&logo=openapiinitiative&logoColor=000000)
-![Swagger](https://img.shields.io/badge/-Swagger-f0f0f0?style=for-the-badge&logo=swagger&logoColor=Clojure)
-![Ansible](https://img.shields.io/badge/ansible-f0f0f0.svg?style=for-the-badge&logo=ansible&logoColor=1A1918)
-![Terraform](https://img.shields.io/badge/terraform-f0f0f0.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)
 
 ![DATABASES](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
@@ -146,6 +153,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-f0f0f0.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
 ![MySQL](https://img.shields.io/badge/mysql-f0f0f0.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-f0f0f0?style=for-the-badge&logo=005571)
+
+![GOVERNANCE](https://img.shields.io/badge/governance-4CAF50.svg?style=for-the-badge&logoColor=white)
 
 <!-- fly.io -->
 <!--dokku, wireshark, metasploit, launch darkly-->
