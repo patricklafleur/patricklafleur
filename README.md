@@ -104,7 +104,7 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 ![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 
-![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-f0f0f0.svg?style=for-the-badge&logo=elixir&logoColor=white&labelColor=4B275F)
 ![Phoenix](https://img.shields.io/badge/phoenix-f0f0f0.svg?style=for-the-badge&logo=phoenix&logoColor=FF6600)
 ![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logoColor=4B275F)
 ![Ecto](https://img.shields.io/badge/ecto-f0f0f0.svg?style=for-the-badge&&logoColor=3CAEA3)
@@ -117,13 +117,13 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ## PLATFORMS & DEVOPS
 
-![PLATFORMS](https://img.shields.io/badge/platforms-007BFF.svg?style=for-the-badge&logoColor=white)
+![PLATFORMS](https://img.shields.io/badge/platforms-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=007BFF)
 ![AWS](https://img.shields.io/badge/AWS-f0f0f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-f0f0f0.svg?style=for-the-badge&logo=digitalOcean&logoColor=0167ff)
 ![Heroku](https://img.shields.io/badge/heroku-f0f0f0.svg?style=for-the-badge&logo=heroku&logoColor=430098)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f0f0f0?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 
-![PROVISIONING](https://img.shields.io/badge/provisioning-EE0000.svg?style=for-the-badge&logoColor=white)
+![PROVISIONING](https://img.shields.io/badge/provisioning-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=EE0000)
 ![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![Ansible](https://img.shields.io/badge/ansible-f0f0f0.svg?style=for-the-badge&logo=ansible&logoColor=1A1918)
 ![Terraform](https://img.shields.io/badge/terraform-f0f0f0.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)
@@ -135,14 +135,14 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 -->
 
 
-![RUNTIME AND MONITORING](https://img.shields.io/badge/runtime+monitoring-FF6F00.svg?style=for-the-badge&logoColor=white)
+![RUNTIME AND MONITORING](https://img.shields.io/badge/runtime+monitoring-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=FF6F00)
 ![Docker](https://img.shields.io/badge/docker-f0f0f0.svg?style=for-the-badge&logo=docker&logoColor=0db7ed)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-f0f0f0.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 ![Grafana](https://img.shields.io/badge/grafana-f0f0f0.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 ![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
 
-![DATABASES](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
+![DATABASES](https://img.shields.io/badge/databases-f0f0f0.svg?style=for-the-badge&logo=database&logoColor=white&labelColor=1F4E79)
 ![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Redis](https://img.shields.io/badge/redis-f0f0f0.svg?style=for-the-badge&logo=redis&logoColor=DD0031)
 ![Supabase](https://img.shields.io/badge/Supabase-f0f0f0?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
@@ -150,7 +150,7 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 ![MongoDB](https://img.shields.io/badge/MongoDB-f0f0f0.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-f0f0f0?style=for-the-badge&logo=005571)
 
-![GOVERNANCE](https://img.shields.io/badge/governance-4CAF50.svg?style=for-the-badge&logoColor=white)
+![GOVERNANCE](https://img.shields.io/badge/governance-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=4CAF50)
 ![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
 ![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
 
@@ -159,7 +159,7 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ## CONTENT
 
-![WRITING](https://img.shields.io/badge/writing-orange.svg?style=for-the-badge&logoColor=white)
+![WRITING](https://img.shields.io/badge/writing-f0f0f0.svg?style=for-the-badge&logo=edit&logoColor=white&labelColor=orange)
 ![Markdoc](https://img.shields.io/badge/markdoc-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=00A2FF)
 ![Markdown](https://img.shields.io/badge/markdown-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=000000)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
