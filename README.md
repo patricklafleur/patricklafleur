@@ -4,10 +4,11 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/github-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
-[![Facebook](https://img.shields.io/badge/facebook-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
-[![X](https://img.shields.io/badge/X-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
+[![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricklafleur) 
+[![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lafleur.patrick)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklafleur/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lafpat)
+
 
 <!--div align="center">
   <a href="https://www.buymeacoffee.com/patricklafleur"> 
