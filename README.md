@@ -1,16 +1,45 @@
 # Hello World 👋
 
-## Social
+I am a dedicated mobile developer working on both iOS and Android. I’m passionate about building robust and user-friendly applications.
 
 <!--
-![Rider](https://img.shields.io/badge/Rider-e0e0e0.svg?style=for-the-badge&logo=Rider&logoColor=white&labelColor=crimson)
->
+🔭 Current Projects:
+
+Enhancing loyalty program features.
+Integrating Jetpack Compose navigation with state management via Toggl/komposable-architecture.
+Automating pull request tasks using custom scripts.
 -->
+
+<!--
+🌱 Recent Endeavors:
+
+Developing a Firebase Remote Config wrapper for Compose apps.
+Converting React components to Ruby on Rails view components.
+Implementing custom splash screens and dynamic text sizing in Android projects.
+-->
+
+<!--
+🚀 Innovations:
+
+Created scripts for automating PR workflows.
+Designed a seamless feature flags retrieval system for Android apps.
+-->
+
+🔍 Current projects and endeavors
+
+- Researching advanced state management strategies;
+- Improving the QA automation processes.
+
+📫 Let's Connect:
 
 [![GitHub](https://img.shields.io/badge/@patricklafleur-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
 [![Facebook](https://img.shields.io/badge/patrick.lafleur-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
 [![LinkedIn](https://img.shields.io/badge/patricklafleur-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
 [![X](https://img.shields.io/badge/@lafpat-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
+
+---
+
+
 <!--![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->
 <!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)-->
 <!--![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)-->
@@ -27,6 +56,7 @@
        alt="patricklafleur">
   </a>
 </div-->
+
 
 
 ## Mobile (Native)
