@@ -148,7 +148,7 @@
 
 <!--dokku, wireshark, metasploit, launch darkly-->
 
-![Databases](https://img.shields.io/badge/databases-blue.svg?style=for-the-badge&logo=database&logoColor=white)
+![Databases](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Redis](https://img.shields.io/badge/redis-f0f0f0.svg?style=for-the-badge&logo=redis&logoColor=DD0031)
 ![SQLite](https://img.shields.io/badge/sqlite-f0f0f0.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)
@@ -159,8 +159,24 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-f0f0f0?style=for-the-badge&logo=005571)
 
 
-## Game development
+## Writing
 
+![Tools](https://img.shields.io/badge/content%20management-0073E6.svg?style=for-the-badge&logoColor=white)
+![Markdoc](https://img.shields.io/badge/markdoc-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=00A2FF)
+![Markdown](https://img.shields.io/badge/markdown-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=000000)
+![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
+
+![CONTENT MANAGEMENT](https://img.shields.io/badge/content%20management-0073E6.svg?style=for-the-badge&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-f0f0f0.svg?style=for-the-badge&logo=astro&logoColor=2C2052)
+![Directus](https://img.shields.io/badge/directus-f0f0f0.svg?style=for-the-badge&logo=directus&logoColor=64f)
+![Hugo](https://img.shields.io/badge/Hugo-f0f0f0.svg?style=for-the-badge&logo=Hugo&logoColor=black)
+![Remix](https://img.shields.io/badge/remix-f0f0f0.svg?style=for-the-badge&logo=remix&logoColor=23000)
+![Github Pages](https://img.shields.io/badge/github%20pages-f0f0f0?style=for-the-badge&logo=github&logoColor=121013)
+
+
+## Hobbies & Others
+
+![Game Development](https://img.shields.io/badge/game%20dev-8A2BE2.svg?style=for-the-badge&logo=nakama&logoColor=white)
 ![Defold](https://img.shields.io/badge/defold-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=FF5000)
 ![Lua](https://img.shields.io/badge/lua-f0f0f0.svg?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![Nakama](https://img.shields.io/badge/nakama-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=2C3E50)
@@ -170,21 +186,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-f0f0f0.svg?style=for-the-badge&logo=Itch.io&logoColor=FF0B34)
 
-
-## Content publishing
-
-![Markdown](https://img.shields.io/badge/markdown-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=000000)
-![Github Pages](https://img.shields.io/badge/github%20pages-f0f0f0?style=for-the-badge&logo=github&logoColor=121013)
-![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
-
-![CONTENT MANAGEMENT](https://img.shields.io/badge/content%20management-black.svg?style=for-the-badge&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-f0f0f0.svg?style=for-the-badge&logo=astro&logoColor=2C2052)
-![Directus](https://img.shields.io/badge/directus-f0f0f0.svg?style=for-the-badge&logo=directus&logoColor=64f)
-![Hugo](https://img.shields.io/badge/Hugo-f0f0f0.svg?style=for-the-badge&logo=Hugo&logoColor=black)
-![Remix](https://img.shields.io/badge/remix-f0f0f0.svg?style=for-the-badge&logo=remix&logoColor=23000)
-
-
-## Hobbies & Others
 
 ![Homebridge](https://img.shields.io/badge/homebridge-f0f0f0.svg?style=for-the-badge&logo=homebridge&logoColor=491F59)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-f0f0f0?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
