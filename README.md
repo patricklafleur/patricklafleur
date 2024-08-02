@@ -114,8 +114,9 @@
 ![Turbo](https://img.shields.io/badge/turbo-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
 ![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
+
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Elixir](https://img.shields.io/badge/phoenix-f0f0f0.svg?style=for-the-badge&logo=phoenix&logoColor=FF6600)
+![Phoenix](https://img.shields.io/badge/phoenix-f0f0f0.svg?style=for-the-badge&logo=phoenix&logoColor=FF6600)
 ![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logoColor=4B275F)
 ![Ecto](https://img.shields.io/badge/ecto-f0f0f0.svg?style=for-the-badge&&logoColor=3CAEA3)
 
