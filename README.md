@@ -47,7 +47,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-f0f0f0.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
 ![Play Store](https://img.shields.io/badge/Google_Play-f0f0f0?style=for-the-badge&logo=google-play&logoColor=414141)
 
-![Platform](https://img.shields.io/badge/mobile%20ci-%2320232a.svg?style=for-the-badge&logoColor=%61DAFB) 
+![Platforms](https://img.shields.io/badge/mobile%20ci-%2320232a.svg?style=for-the-badge&logoColor=%61DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-f0f0f0?style=for-the-badge&logo=firebase&logoColor=a08021)
 ![bitrise.io](https://img.shields.io/badge/bitrise.io-f0f0f0?style=for-the-badge&logo=bitrise&logoColor=683D87)
 ![fastlane](https://img.shields.io/badge/fastlane-f0f0f0?style=for-the-badge&logo=fastlane&logoColor=F00000)
@@ -55,15 +55,13 @@
 
 ## Web
 
+![Frameworks](https://img.shields.io/badge/frameworks-20232A.svg?style=for-the-badge&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Chakra](https://img.shields.io/badge/chakra-f0f0f0.svg?style=for-the-badge&logo=chakraui&logoColor=4ED1C5) 
 ![Radix UI](https://img.shields.io/badge/radix%20ui-f0f0f0.svg?style=for-the-badge&logo=radix-ui&logoColor=161618)
 ![Styled Components](https://img.shields.io/badge/styled--components-f0f0f0?style=for-the-badge&logo=styled-components&logoColor=DB7093)
-
-
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-f0f0f0.svg?style=for-the-badge&logo=reactivex&logoColor=B7178C) 
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-f0f0f0.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
@@ -82,7 +80,8 @@
 ![Selenium](https://img.shields.io/badge/-selenium-f0f0f0?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![cypress](https://img.shields.io/badge/-cypress-f0f0f0?style=for-the-badge&logo=cypress&logoColor=E5E5E5)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tools](https://img.shields.io/badge/tools-black.svg?style=for-the-badge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-f0f0f0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![NPM](https://img.shields.io/badge/NPM-f0f0f0.svg?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/yarn-f0f0f0.svg?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
 ![Webpack](https://img.shields.io/badge/webpack-f0f0f0.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
@@ -109,50 +108,49 @@
 ![NestJS](https://img.shields.io/badge/nestjs-f0f0f0.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Socket.io](https://img.shields.io/badge/Socket.io-f0f0f0?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![View Components](https://img.shields.io/badge/view%20components-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 
-
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)
 
 <!--bundler, sidekiq-->
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!--![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
 <!-- chai, sinon -->
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 ## Platforms & DevOps
 
+![Platforms](https://img.shields.io/badge/platforms-black.svg?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![CI](https://img.shields.io/badge/ci-black.svg?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<!-- fly.io -->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
+![Runtime & Monitoring](https://img.shields.io/badge/runtime+monitoring-black.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-<!--dokku, wireshark, metasploit, launch darkly-->
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+<!-- fly.io -->
+![Tools](https://img.shields.io/badge/tools-black.svg?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+<!--dokku, wireshark, metasploit, launch darkly-->
 
 ## Databases
 
