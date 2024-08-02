@@ -55,7 +55,7 @@
 
 ## Web
 
-![Frameworks](https://img.shields.io/badge/frameworks-20232A.svg?style=for-the-badge&logoColor=white) 
+![Frameworks](https://img.shields.io/badge/frameworks-007ACC.svg?style=for-the-badge&logoColor=white) 
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-f0f0f0.svg?style=for-the-badge&logo=chakraui&logoColor=4ED1C5) 
@@ -70,13 +70,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-f0f0f0.svg?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-f0f0f0.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-![Testing](https://img.shields.io/badge/-testing-darkgreen?style=for-the-badge&logoColor=white)
+![Testing](https://img.shields.io/badge/-testing-4CAF50?style=for-the-badge&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-f0f0f0?style=for-the-badge&logo=mocha&logoColor=8D6748)
 ![Jasmine](https://img.shields.io/badge/jasmine-f0f0f0.svg?style=for-the-badge&logo=jasmine&logoColor=238A4182)
 ![Selenium](https://img.shields.io/badge/-selenium-f0f0f0?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![cypress](https://img.shields.io/badge/-cypress-f0f0f0?style=for-the-badge&logo=cypress&logoColor=E5E5E5)
 
-![Tools](https://img.shields.io/badge/tools-black.svg?style=for-the-badge&logoColor=white)
+![Tools & CLI](https://img.shields.io/badge/tools-F7DF1E.svg?style=for-the-badge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-f0f0f0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![NPM](https://img.shields.io/badge/NPM-f0f0f0.svg?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/yarn-f0f0f0.svg?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
@@ -95,19 +95,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-f0f0f0.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-f0f0f0.svg?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-f0f0f0?style=for-the-badge&logo=Apache%20Maven&logoColor=C71A36)
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-f0f0f0?style=for-the-badge&logo=deno&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/express.js-f0f0f0.svg?style=for-the-badge&logo=express&logoColor=404d59)
 ![FastAPI](https://img.shields.io/badge/FastAPI-f0f0f0?style=for-the-badge&logo=005571)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 ![NestJS](https://img.shields.io/badge/nestjs-f0f0f0.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Socket.io](https://img.shields.io/badge/Socket.io-f0f0f0?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![View Components](https://img.shields.io/badge/view%20components-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
-
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)
 
@@ -118,26 +114,26 @@
 <!-- chai, sinon -->
 ## Platforms & DevOps
 
-![Platforms](https://img.shields.io/badge/platforms-black.svg?style=for-the-badge&logoColor=white)
+![Platforms](https://img.shields.io/badge/platforms-007BFF.svg?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f0f0f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-f0f0f0.svg?style=for-the-badge&logo=digitalOcean&logoColor=0167ff)
 ![Heroku](https://img.shields.io/badge/heroku-f0f0f0.svg?style=for-the-badge&logo=heroku&logoColor=430098)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f0f0f0?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 
-![CI / CD](https://img.shields.io/badge/ci+cd-black.svg?style=for-the-badge&logoColor=white)
+![CI / CD](https://img.shields.io/badge/ci+cd-4CAF50.svg?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-f0f0f0.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5)
 ![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-f0f0f0.svg?style=for-the-badge&logo=gitlab&logoColor=181717)
 ![Jenkins](https://img.shields.io/badge/jenkins-f0f0f0.svg?style=for-the-badge&logo=jenkins&logoColor=2C5263)
 
-![Runtime & Monitoring](https://img.shields.io/badge/runtime+monitoring-black.svg?style=for-the-badge&logoColor=white)
+![Runtime & Monitoring](https://img.shields.io/badge/runtime+monitoring-FF6F00.svg?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-f0f0f0.svg?style=for-the-badge&logo=docker&logoColor=0db7ed)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-f0f0f0.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 ![Grafana](https://img.shields.io/badge/grafana-f0f0f0.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 
 <!-- fly.io -->
-![Tools](https://img.shields.io/badge/tools-black.svg?style=for-the-badge&logoColor=white)
+![Tools](https://img.shields.io/badge/tools-EE0000.svg?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![openapi initiative](https://img.shields.io/badge/openapiinitiative-f0f0f0.svg?style=for-the-badge&logo=openapiinitiative&logoColor=000000)
 ![Swagger](https://img.shields.io/badge/-Swagger-f0f0f0?style=for-the-badge&logo=swagger&logoColor=Clojure)
