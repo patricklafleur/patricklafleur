@@ -36,11 +36,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-f0f0f0?style=for-the-badge&logo=Xcode&logoColor=007ACC)
 ![Swift](https://img.shields.io/badge/swift+spm-f0f0f0?style=for-the-badge&logo=swift&logoColor=white&logoColor=F54A2A)
 ![App Store](https://img.shields.io/badge/App_Store-f0f0f0?style=for-the-badge&logo=app-store&logoColor=white&logoColor=0D96F6)
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-f0f0f0?style=for-the-badge&logo=android%20studio&logoColor=346ac1)
 ![Kotlin](https://img.shields.io/badge/kotlin-f0f0f0.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Gradle](https://img.shields.io/badge/Gradle-f0f0f0.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
 ![Play Store](https://img.shields.io/badge/Google_Play-f0f0f0?style=for-the-badge&logo=google-play&logoColor=414141)
+
 ![Platforms](https://img.shields.io/badge/mobile%20ci-%2320232a.svg?style=for-the-badge&logoColor=%61DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-f0f0f0?style=for-the-badge&logo=firebase&logoColor=a08021)
 ![bitrise.io](https://img.shields.io/badge/bitrise.io-f0f0f0?style=for-the-badge&logo=bitrise&logoColor=683D87)
