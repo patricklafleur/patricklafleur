@@ -2,50 +2,17 @@
 
 I am a dedicated mobile developer working on both iOS and Android. I’m passionate about building robust and user-friendly applications.
 
-<!--
-🔭 Current Projects:
-
-Enhancing loyalty program features.
-Integrating Jetpack Compose navigation with state management via Toggl/komposable-architecture.
-Automating pull request tasks using custom scripts.
--->
-
-<!--
-🌱 Recent Endeavors:
-
-Developing a Firebase Remote Config wrapper for Compose apps.
-Converting React components to Ruby on Rails view components.
-Implementing custom splash screens and dynamic text sizing in Android projects.
--->
-
-<!--
-🚀 Innovations:
-
-Created scripts for automating PR workflows.
-Designed a seamless feature flags retrieval system for Android apps.
--->
-
-🔍 Current projects and endeavors
+## 🔍 Current projects and endeavors
 
 - Researching advanced state management strategies;
 - Improving the QA automation processes.
 
-📫 Let's Connect:
+## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/@patricklafleur-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
 [![Facebook](https://img.shields.io/badge/patrick.lafleur-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
 [![LinkedIn](https://img.shields.io/badge/patricklafleur-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
 [![X](https://img.shields.io/badge/@lafpat-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
-
----
-
-
-<!--![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->
-<!--![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)-->
-<!--![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)-->
-<!--![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)-->
-<!--![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)-->
-<!--![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)-->
 
 <!--div align="center">
   <a href="https://www.buymeacoffee.com/patricklafleur"> 
@@ -57,9 +24,11 @@ Designed a seamless feature flags retrieval system for Android apps.
   </a>
 </div-->
 
+---
 
+## My technical profile
 
-## Mobile (Native)
+### MOBILE NATIVE
 
 ![APPLE/iOS+iPadOS](https://img.shields.io/badge/ios+ipados+tvos-black?style=for-the-badge&logo=apple&logoColor=white&color=black)
 ![iOS+iPadOS](https://img.shields.io/badge/iOS+iPadOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=white)
@@ -84,7 +53,7 @@ Designed a seamless feature flags retrieval system for Android apps.
 <!--![tvOS](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)-->
 <!--![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)-->
 
-## Web
+### WEB
 
 <!--![FRAMEWORKS](https://img.shields.io/badge/frameworks-007ACC.svg?style=for-the-badge&logoColor=white) -->
 
@@ -120,7 +89,7 @@ Designed a seamless feature flags retrieval system for Android apps.
 
 <!--![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 
-## Backend
+### BACKEND
 
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f0f0f0.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -155,7 +124,8 @@ Designed a seamless feature flags retrieval system for Android apps.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
 
 <!-- chai, sinon -->
-## Platforms & DevOps
+
+### PLATFORMS & DEVOPS
 
 ![PLATFORMS](https://img.shields.io/badge/platforms-007BFF.svg?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f0f0f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -197,7 +167,7 @@ Designed a seamless feature flags retrieval system for Android apps.
 <!-- fly.io -->
 <!--dokku, wireshark, metasploit, launch darkly-->
 
-## Content
+### CONTENT
 
 ![WRITING](https://img.shields.io/badge/writing-orange.svg?style=for-the-badge&logoColor=white)
 ![Markdoc](https://img.shields.io/badge/markdoc-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=00A2FF)
@@ -212,7 +182,7 @@ Designed a seamless feature flags retrieval system for Android apps.
 ![Github Pages](https://img.shields.io/badge/github%20pages-f0f0f0?style=for-the-badge&logo=github&logoColor=121013)
 
 
-## Hobbies & Others
+### HOBBIES
 
 ![GAME DEVELOPMENT](https://img.shields.io/badge/game%20dev-8A2BE2.svg?style=for-the-badge&logo=nakama&logoColor=white)
 ![Defold](https://img.shields.io/badge/defold-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=FF5000)
