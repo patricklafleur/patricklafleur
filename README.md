@@ -44,7 +44,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-f0f0f0.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
 ![Play Store](https://img.shields.io/badge/Google_Play-f0f0f0?style=for-the-badge&logo=google-play&logoColor=414141)
 
-![Platforms](https://img.shields.io/badge/mobile%20ci-%2320232a.svg?style=for-the-badge&logoColor=%61DAFB) 
+![Platforms](https://img.shields.io/badge/platforms-darkgray.svg?style=for-the-badge&logoColor=%61DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-f0f0f0?style=for-the-badge&logo=firebase&logoColor=a08021)
 ![bitrise.io](https://img.shields.io/badge/bitrise.io-f0f0f0?style=for-the-badge&logo=bitrise&logoColor=683D87)
 ![fastlane](https://img.shields.io/badge/fastlane-f0f0f0?style=for-the-badge&logo=fastlane&logoColor=F00000)
