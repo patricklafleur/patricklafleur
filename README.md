@@ -2,8 +2,6 @@
 
 I am a full-stack mobile developer working on both iOS and Android. I’m passionate about building robust and user-friendly applications.
 
-## 📫 Let's Connect
-
 [![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricklafleur) 
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lafleur.patrick)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklafleur/)
