@@ -178,13 +178,13 @@
 ![Itch.io](https://img.shields.io/badge/Itch-f0f0f0.svg?style=for-the-badge&logo=Itch.io&logoColor=FF0B34)
 
 
-## Writing & Documentation
+## Content publishing
 
 ![Markdown](https://img.shields.io/badge/markdown-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=000000)
 ![Github Pages](https://img.shields.io/badge/github%20pages-f0f0f0?style=for-the-badge&logo=github&logoColor=121013)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
 
-![CMS](https://img.shields.io/badge/cms-black.svg?style=for-the-badge&logo=astro&logoColor=white)
+![CONTENT MANAGEMENT](https://img.shields.io/badge/content%20management-black.svg?style=for-the-badge&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-f0f0f0.svg?style=for-the-badge&logo=astro&logoColor=2C2052)
 ![Directus](https://img.shields.io/badge/directus-f0f0f0.svg?style=for-the-badge&logo=directus&logoColor=64f)
 ![Hugo](https://img.shields.io/badge/Hugo-f0f0f0.svg?style=for-the-badge&logo=Hugo&logoColor=black)
