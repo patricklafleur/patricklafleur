@@ -108,14 +108,16 @@
 
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![View Components](https://img.shields.io/badge/view%20components-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
-![Action Cable](https://img.shields.io/badge/action-cable-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Action Cable](https://img.shields.io/badge/action%20cable-f0f0f0.svg?style=for-the-badge&logoColor=CC0000)
 ![Stimulus](https://img.shields.io/badge/stimulus-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
-![Hotwire](https://img.shields.io/badge/hotwire-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
-![Turbo](https://img.shields.io/badge/turbo-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
-![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=DC382D)
+![Hotwire](https://img.shields.io/badge/hotwire-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
+![Turbo](https://img.shields.io/badge/turbo-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
+![Strada](https://img.shields.io/badge/strada-f0f0f0.svg?style=for-the-badge&logoColor=325D88)
 ![Sidekiq](https://img.shields.io/badge/sidekiq-f0f0f0.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=DC382D)
 ![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)
+![Elixir](https://img.shields.io/badge/phoenix-f0f0f0.svg?style=for-the-badge&logo=phoenix&logoColor=FF6600)
+![LiveView](https://img.shields.io/badge/live%20view-f0f0f0.svg?style=for-the-badge&logoColor=4B275F)
+![Ecto](https://img.shields.io/badge/ecto-f0f0f0.svg?style=for-the-badge&&logoColor=3CAEA3)
 
 <!--bundler, sidekiq-->
 <!--![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
