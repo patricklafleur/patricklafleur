@@ -27,13 +27,13 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 ![SQLite](https://img.shields.io/badge/sqlite-f0f0f0.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)
 ![App Store](https://img.shields.io/badge/App_Store-f0f0f0?style=for-the-badge&logo=app-store&logoColor=white&logoColor=0D96F6)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-f0f0f0?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
 ![Android Studio](https://img.shields.io/badge/android%20studio-f0f0f0?style=for-the-badge&logo=android%20studio&logoColor=346ac1)
 ![Kotlin](https://img.shields.io/badge/kotlin-f0f0f0.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Gradle](https://img.shields.io/badge/Gradle-f0f0f0.svg?style=for-the-badge&logo=Gradle&logoColor=02303A)
 ![Play Store](https://img.shields.io/badge/Google_Play-f0f0f0?style=for-the-badge&logo=google-play&logoColor=414141)
 
-![Platforms](https://img.shields.io/badge/platforms-d4d4d4.svg?style=for-the-badge&logoColor=%61DAFB) 
+![Platforms](https://img.shields.io/badge/platforms-f0f0f0.svg?style=for-the-badge&logoColor=white&labelColor=d4d4d4) 
 ![Firebase](https://img.shields.io/badge/firebase-f0f0f0?style=for-the-badge&logo=firebase&logoColor=a08021)
 ![bitrise.io](https://img.shields.io/badge/bitrise.io-f0f0f0?style=for-the-badge&logo=bitrise&logoColor=683D87)
 ![fastlane](https://img.shields.io/badge/fastlane-f0f0f0?style=for-the-badge&logo=fastlane&logoColor=F00000)
