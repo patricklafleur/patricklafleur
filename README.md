@@ -179,8 +179,7 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 ![Lua](https://img.shields.io/badge/lua-f0f0f0.svg?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![Nakama](https://img.shields.io/badge/nakama-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=2C3E50)
 ![GLSL](https://img.shields.io/badge/glsl-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=3A9D00)
-![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=green) 
 ![Itch.io](https://img.shields.io/badge/Itch-f0f0f0.svg?style=for-the-badge&logo=Itch.io&logoColor=FF0B34)
 
 ![AUTOMATION](https://img.shields.io/badge/Automation-FFA500?style=for-the-badge&logoColor=white)
