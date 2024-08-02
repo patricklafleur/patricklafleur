@@ -56,11 +56,11 @@
 ## Web
 
 ![Frameworks](https://img.shields.io/badge/frameworks-20232A.svg?style=for-the-badge&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-f0f0f0.svg?style=for-the-badge&logo=chakraui&logoColor=4ED1C5) 
 ![Radix UI](https://img.shields.io/badge/radix%20ui-f0f0f0.svg?style=for-the-badge&logo=radix-ui&logoColor=161618)
 ![Styled Components](https://img.shields.io/badge/styled--components-f0f0f0?style=for-the-badge&logo=styled-components&logoColor=DB7093)
-![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-f0f0f0.svg?style=for-the-badge&logo=reactivex&logoColor=B7178C) 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -70,11 +70,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-f0f0f0.svg?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-f0f0f0.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-<!--
-![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
--->
-
-![Testing](https://img.shields.io/badge/-testing-green?style=for-the-badge&logo=mocha&logoColor=white)
+![Testing](https://img.shields.io/badge/-testing-darkgreen?style=for-the-badge&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-f0f0f0?style=for-the-badge&logo=mocha&logoColor=8D6748)
 ![Jasmine](https://img.shields.io/badge/jasmine-f0f0f0.svg?style=for-the-badge&logo=jasmine&logoColor=238A4182)
 ![Selenium](https://img.shields.io/badge/-selenium-f0f0f0?style=for-the-badge&logo=selenium&logoColor=43B02A)
