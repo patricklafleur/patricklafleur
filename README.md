@@ -7,15 +7,15 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 - Researching advanced state management strategies;
 - Improving the QA automation processes.
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/@patricklafleur-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
+[![GitHub](https://img.shields.io/badge/github-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
 
-[![Facebook](https://img.shields.io/badge/patrick.lafleur-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
+[![Facebook](https://img.shields.io/badge/facebook-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
 
-[![LinkedIn](https://img.shields.io/badge/patricklafleur-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
 
-[![X](https://img.shields.io/badge/@lafpat-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
+[![X](https://img.shields.io/badge/X-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
 
 <!--div align="center">
   <a href="https://www.buymeacoffee.com/patricklafleur"> 
