@@ -119,45 +119,44 @@
 ## Platforms & DevOps
 
 ![Platforms](https://img.shields.io/badge/platforms-black.svg?style=for-the-badge&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-f0f0f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-f0f0f0.svg?style=for-the-badge&logo=digitalOcean&logoColor=0167ff)
+![Heroku](https://img.shields.io/badge/heroku-f0f0f0.svg?style=for-the-badge&logo=heroku&logoColor=430098)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f0f0f0?style=for-the-badge&logo=Cloudflare&logoColor=F38020)
 
-![CI](https://img.shields.io/badge/ci-black.svg?style=for-the-badge&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI / CD](https://img.shields.io/badge/ci+cd-black.svg?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-f0f0f0.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5)
+![Dependabot](https://img.shields.io/badge/dependabot-f0f0f0?style=for-the-badge&logo=dependabot&logoColor=025E8C)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-f0f0f0.svg?style=for-the-badge&logo=gitlab&logoColor=181717)
+![Jenkins](https://img.shields.io/badge/jenkins-f0f0f0.svg?style=for-the-badge&logo=jenkins&logoColor=2C5263)
 
 ![Runtime & Monitoring](https://img.shields.io/badge/runtime+monitoring-black.svg?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-f0f0f0.svg?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/kubernetes-f0f0f0.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![Grafana](https://img.shields.io/badge/grafana-f0f0f0.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
 
 <!-- fly.io -->
 ![Tools](https://img.shields.io/badge/tools-black.svg?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
+![openapi initiative](https://img.shields.io/badge/openapiinitiative-f0f0f0.svg?style=for-the-badge&logo=openapiinitiative&logoColor=000000)
+![Swagger](https://img.shields.io/badge/-Swagger-f0f0f0?style=for-the-badge&logo=swagger&logoColor=Clojure)
+![Ansible](https://img.shields.io/badge/ansible-f0f0f0.svg?style=for-the-badge&logo=ansible&logoColor=1A1918)
+![Terraform](https://img.shields.io/badge/terraform-f0f0f0.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)
+![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
+![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
 
 <!--dokku, wireshark, metasploit, launch darkly-->
 
-## Databases
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Databases](https://img.shields.io/badge/databases-blue.svg?style=for-the-badge&logo=database&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Redis](https://img.shields.io/badge/redis-f0f0f0.svg?style=for-the-badge&logo=redis&logoColor=DD0031)
+![SQLite](https://img.shields.io/badge/sqlite-f0f0f0.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![Supabase](https://img.shields.io/badge/Supabase-f0f0f0?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MariaDB](https://img.shields.io/badge/MariaDB-f0f0f0?style=for-the-badge&logo=mariadb&logoColor=003545)
+![MongoDB](https://img.shields.io/badge/MongoDB-f0f0f0.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![MySQL](https://img.shields.io/badge/mysql-f0f0f0.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-f0f0f0?style=for-the-badge&logo=005571)
 
 
 ## Game development
