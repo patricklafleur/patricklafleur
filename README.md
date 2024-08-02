@@ -1,17 +1,20 @@
 # Hello World 👋
 
-I am a dedicated mobile developer working on both iOS and Android. I’m passionate about building robust and user-friendly applications.
+I am a full-stack mobile developer working on both iOS and Android. I’m passionate about building robust and user-friendly applications.
 
 ## 🔍 Current projects and endeavors
 
 - Researching advanced state management strategies;
 - Improving the QA automation processes.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/@patricklafleur-f0f0f0.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/patricklafleur) 
+
 [![Facebook](https://img.shields.io/badge/patrick.lafleur-f0f0f0.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/lafleur.patrick)
+
 [![LinkedIn](https://img.shields.io/badge/patricklafleur-f0f0f0.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/patricklafleur/)
+
 [![X](https://img.shields.io/badge/@lafpat-f0f0f0.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=black)](https://x.com/lafpat)
 
 <!--div align="center">
@@ -26,9 +29,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 
 ---
 
-## My technical profile
-
-### MOBILE NATIVE
+## MOBILE NATIVE
 
 ![APPLE/iOS+iPadOS](https://img.shields.io/badge/ios+ipados+tvos-black?style=for-the-badge&logo=apple&logoColor=white&color=black)
 ![iOS+iPadOS](https://img.shields.io/badge/iOS+iPadOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=white)
@@ -53,7 +54,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 <!--![tvOS](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)-->
 <!--![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)-->
 
-### WEB
+## WEB
 
 <!--![FRAMEWORKS](https://img.shields.io/badge/frameworks-007ACC.svg?style=for-the-badge&logoColor=white) -->
 
@@ -89,7 +90,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 
 <!--![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)-->
 
-### BACKEND
+## BACKEND
 
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-f0f0f0.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -125,7 +126,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 
 <!-- chai, sinon -->
 
-### PLATFORMS & DEVOPS
+## PLATFORMS & DEVOPS
 
 ![PLATFORMS](https://img.shields.io/badge/platforms-007BFF.svg?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-f0f0f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -167,7 +168,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 <!-- fly.io -->
 <!--dokku, wireshark, metasploit, launch darkly-->
 
-### CONTENT
+## CONTENT
 
 ![WRITING](https://img.shields.io/badge/writing-orange.svg?style=for-the-badge&logoColor=white)
 ![Markdoc](https://img.shields.io/badge/markdoc-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=00A2FF)
@@ -182,7 +183,7 @@ I am a dedicated mobile developer working on both iOS and Android. I’m passion
 ![Github Pages](https://img.shields.io/badge/github%20pages-f0f0f0?style=for-the-badge&logo=github&logoColor=121013)
 
 
-### HOBBIES
+## HOBBIES
 
 ![GAME DEVELOPMENT](https://img.shields.io/badge/game%20dev-8A2BE2.svg?style=for-the-badge&logo=nakama&logoColor=white)
 ![Defold](https://img.shields.io/badge/defold-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=FF5000)
