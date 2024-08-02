@@ -31,7 +31,8 @@
 
 ## Mobile (Native)
 
-![iOS](https://img.shields.io/badge/iOS+iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white&color=black)
+![APPLE/iOS+iPadOS](https://img.shields.io/badge/ios+ipados+tvos-black?style=for-the-badge&logo=apple&logoColor=white&color=black)
+![iOS+iPadOS](https://img.shields.io/badge/iOS+iPadOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-f0f0f0?style=for-the-badge&logo=Xcode&logoColor=007ACC)
 ![Swift](https://img.shields.io/badge/swift+spm-f0f0f0?style=for-the-badge&logo=swift&logoColor=white&logoColor=F54A2A)
 ![App Store](https://img.shields.io/badge/App_Store-f0f0f0?style=for-the-badge&logo=app-store&logoColor=white&logoColor=0D96F6)
@@ -123,15 +124,13 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-f0f0f0.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 ![Grafana](https://img.shields.io/badge/grafana-f0f0f0.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Prometheus](https://img.shields.io/badge/Prometheus-f0f0f0?style=for-the-badge&logo=Prometheus&logoColor=E6522C)
-![Tools](https://img.shields.io/badge/tools-EE0000.svg?style=for-the-badge&logoColor=white)
+![TOOLS](https://img.shields.io/badge/tools-EE0000.svg?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f0f0f0.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![openapi initiative](https://img.shields.io/badge/openapiinitiative-f0f0f0.svg?style=for-the-badge&logo=openapiinitiative&logoColor=000000)
 ![Swagger](https://img.shields.io/badge/-Swagger-f0f0f0?style=for-the-badge&logo=swagger&logoColor=Clojure)
 ![Ansible](https://img.shields.io/badge/ansible-f0f0f0.svg?style=for-the-badge&logo=ansible&logoColor=1A1918)
 ![Terraform](https://img.shields.io/badge/terraform-f0f0f0.svg?style=for-the-badge&logo=terraform&logoColor=5835CC)
-![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
-![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
-![Databases](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
+![DATABASES](https://img.shields.io/badge/databases-1F4E79.svg?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-f0f0f0.svg?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Redis](https://img.shields.io/badge/redis-f0f0f0.svg?style=for-the-badge&logo=redis&logoColor=DD0031)
 ![SQLite](https://img.shields.io/badge/sqlite-f0f0f0.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)
@@ -146,11 +145,13 @@
 
 ## Content
 
-![Writing](https://img.shields.io/badge/content%20management-0073E6.svg?style=for-the-badge&logoColor=white)
+![WRITING](https://img.shields.io/badge/writing-0073E6.svg?style=for-the-badge&logoColor=white)
 ![Markdoc](https://img.shields.io/badge/markdoc-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=00A2FF)
 ![Markdown](https://img.shields.io/badge/markdown-f0f0f0.svg?style=for-the-badge&logo=markdown&logoColor=000000)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-f0f0f0?style=for-the-badge&logo=openai&logoColor=74aa9c)
-![Publishing](https://img.shields.io/badge/content%20management-0073E6.svg?style=for-the-badge&logoColor=white)
+![PUBLISHING](https://img.shields.io/badge/publishing-0073E6.svg?style=for-the-badge&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-f0f0f0.svg?style=for-the-badge&logo=confluence&logoColor=172BF4)
+![Jira](https://img.shields.io/badge/jira-f0f0f0.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF)
 ![Astro](https://img.shields.io/badge/astro-f0f0f0.svg?style=for-the-badge&logo=astro&logoColor=2C2052)
 ![Directus](https://img.shields.io/badge/directus-f0f0f0.svg?style=for-the-badge&logo=directus&logoColor=64f)
 ![Hugo](https://img.shields.io/badge/Hugo-f0f0f0.svg?style=for-the-badge&logo=Hugo&logoColor=black)
@@ -160,7 +161,7 @@
 
 ## Hobbies & Others
 
-![Game Development](https://img.shields.io/badge/game%20dev-8A2BE2.svg?style=for-the-badge&logo=nakama&logoColor=white)
+![GAME DEVELOPMENT](https://img.shields.io/badge/game%20dev-8A2BE2.svg?style=for-the-badge&logo=nakama&logoColor=white)
 ![Defold](https://img.shields.io/badge/defold-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=FF5000)
 ![Lua](https://img.shields.io/badge/lua-f0f0f0.svg?style=for-the-badge&logo=lua&logoColor=2C2D72)
 ![Nakama](https://img.shields.io/badge/nakama-f0f0f0.svg?style=for-the-badge&logo=nakama&logoColor=2C3E50)
@@ -168,7 +169,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-f0f0f0.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-f0f0f0.svg?style=for-the-badge&logo=Itch.io&logoColor=FF0B34)
-![Automation](https://img.shields.io/badge/Automation-FFA500?style=for-the-badge&logoColor=white)
+![AUTOMATION](https://img.shields.io/badge/Automation-FFA500?style=for-the-badge&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-f0f0f0?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A)
 ![Homebridge](https://img.shields.io/badge/homebridge-f0f0f0.svg?style=for-the-badge&logo=homebridge&logoColor=491F59)
 <!--![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)-->
