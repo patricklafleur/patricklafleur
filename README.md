@@ -23,8 +23,8 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ## MOBILE NATIVE
 
-![APPLE](https://img.shields.io/badge/ios+ipados+tvos-f0f0f0?style=for-the-badge&logo=apple&logoColor=white&labelColor=black)
-![iOS+iPadOS+tvOS](https://img.shields.io/badge/iOS+iPadOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=white)
+![APPLE](https://img.shields.io/badge/Apple-f0f0f0?style=for-the-badge&logo=apple&logoColor=white&labelColor=black)
+![iOS+iPadOS+tvOS](https://img.shields.io/badge/iOS+iPadOS+tvOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-f0f0f0?style=for-the-badge&logo=Xcode&logoColor=007ACC)
 ![Swift](https://img.shields.io/badge/swift+spm-f0f0f0?style=for-the-badge&logo=swift&logoColor=white&logoColor=F54A2A)
 ![SQLite](https://img.shields.io/badge/sqlite-f0f0f0.svg?style=for-the-badge&logo=sqlite&logoColor=07405e)
