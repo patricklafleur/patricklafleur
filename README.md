@@ -93,7 +93,6 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 ![NodeJS](https://img.shields.io/badge/node.js-f0f0f0?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6DA55F)
 ![Express.js](https://img.shields.io/badge/express.js-f0f0f0.svg?style=for-the-badge&logo=express&logoColor=404d59)
-![FastAPI](https://img.shields.io/badge/FastAPI-f0f0f0?style=for-the-badge&logo=005571)
 ![Prisma](https://img.shields.io/badge/Prisma-f0f0f0?style=for-the-badge&logo=Prisma&logoColor=3982CE)
 ![NestJS](https://img.shields.io/badge/nestjs-f0f0f0.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Socket.io](https://img.shields.io/badge/Socket.io-f0f0f0?style=for-the-badge&logo=socket.io&badgeColor=010101)
