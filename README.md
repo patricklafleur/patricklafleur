@@ -10,6 +10,10 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lafleur.patrick)
 
 
+**Other websites**
+
+[Zone Sudoku](https://zonesudoku.com)
+
 
 <!--div align="center">
   <a href="https://www.buymeacoffee.com/patricklafleur"> 
