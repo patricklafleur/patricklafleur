@@ -12,7 +12,7 @@ I am a full-stack mobile developer working on both iOS and Android. I’m passio
 
 **Other websites**
 
-[Zone Sudoku](https://zonesudoku.com)
+[https://zonesudoku.com](https://zonesudoku.com)
 
 
 <!--div align="center">
